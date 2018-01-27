@@ -1,0 +1,24 @@
+(c) Julien croteau, 2018.
+
+Volumio caddy is a Python script that allows the Rasperry Pi Zero W and Volumio to support a physical interface.
+
+Version log
+
+0.0.0
+Date: 20/12/2017
+Modification of Adafruit SSD1306 example script to show Volumio status
+
+Version: 0.0.1 
+Date: 08/01/2018
+Added support 3 buttons with an option to add a longpress command 
+wrote script in seperate classes files form instead of loops
+Made the File 'servicectl ready'
+
+Version: 0.0.2
+Date: 22/01/2017
+Added support for rotary encoder
+
+Version 0.0.3
+Date: 23/01/2017
+Sanitized rotary encoder pulses
+Added support for Websocket.IO
