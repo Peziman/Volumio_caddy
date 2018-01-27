@@ -28,8 +28,8 @@ But, please never run apt-get upgrade as it will break your volumio install.
 
 It's time to clone this directory, running :
 
-    git clone https://github.com/julien123123/volumio_caddy
-  	cd volumio-buddy
+    git clone https://github.com/julien123123/volumio_caddy.git
+        cd volumio_caddy
 
 The scripts will be install in your "/" directory
 
